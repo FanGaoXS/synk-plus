@@ -4,7 +4,7 @@
 # 克隆项目
 git clone https://github.com/FanGaoXS/synk-plus
 
-# 进入前端目录并且安装依赖和构建
+# 构建前端
 make build
 
 # 构建后端
